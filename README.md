@@ -8,3 +8,4 @@ My adventures in discovering the applicability and exploits of Machine Learning.
 - Convolutional Neural Network <br>
 - Binary Classification <br>
 - Natural Language Processing <br>
+- Support Vector Machine <br>
