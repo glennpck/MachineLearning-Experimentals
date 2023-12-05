@@ -1,0 +1,5 @@
+5: Easy (3295), Price (1971), Service (915), Selection (463), Quick (967)
+4: Easy (175), Price (127), Service (62)
+3: Time (70), Service (22), Packaging (11), Spoilt (1), Ripped (1)
+2: Delivery (29), Days (21), Weeks (16), Service (16), Damaged (11)
+1: Days (116), Service (56), Weeks (69), Waiting (36), Damaged (23)
